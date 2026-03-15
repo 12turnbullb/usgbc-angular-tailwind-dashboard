@@ -105,6 +105,10 @@ TailAdmin Angular ships with a rich set of **ready-to-use dashboard features**:
 
 ## Changelog
 
+### v1.0.3 (2026-03-15)
+
+- **update**: update Angular dependencies to version 21.2.x.
+
 ### v1.0.2 (2025-12-30)
 
 - **Upgrade**: Successfully upgraded project to **Angular 21**.
